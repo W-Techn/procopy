@@ -8,9 +8,9 @@ criar um micro-serviço que monitora um banco de dados específico e copie todos
 Inicialmente esse sistema tem que copiar todos os dado fazendo select de 1000 em 1000 linhas depois que a tabela for totalmente copiada o sistema deverá ficar monitorando para que toda nova linha inserida possa ser copiada para o novo banco de dados
 
 requisitos funcionais
->o sistema deverá ser desenvolvido em Nodejs 
->utilizar es6 
->não utilizar promisses
->utilizar motores de conexão Mysql e MSSql Server
->fazer testes com banco de dados localhost pode ser qualquer banco
+> o sistema deverá ser desenvolvido em Nodejs 
+> utilizar es6 
+> não utilizar promisses
+> utilizar motores de conexão Mysql e MSSql Server
+> fazer testes com banco de dados localhost pode ser qualquer banco
 
